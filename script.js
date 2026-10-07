@@ -1,4 +1,4 @@
-```javascript
+javascript
 /* =========================
    ELEMENTS
 ========================= */
@@ -433,4 +433,3 @@ window.addEventListener(
 
   }
 );
-```
